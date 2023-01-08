@@ -1,2 +1,5 @@
 # Current-day
-Current day code in JS 
+
+var day = (new Date()).getDate();
+console.log(day);
+// Sample output: 31
